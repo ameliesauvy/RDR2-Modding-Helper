@@ -1,6 +1,3 @@
-# RDR2-Modding-Helper
-RDR2 modding utility for asset research, texture compression, LML conflict detection, and more.
-
 # Modding Helper
 Modding Helper brings asset research, archive exploration, texture tools, and LML mod management into one interface. Search game resources by recognizable item names or hashes, inspect and export assets, compare texture compression against vanilla references, and find conflicts in your LML folder.
 
