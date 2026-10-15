@@ -38,10 +38,9 @@ Modding Helper brings asset research, archive exploration, texture tools, and LM
 
 ### Creator Tools
 
-- Batch-import and export supported resources while retaining directory structure.
-- Duplicate template files using names from a file list or another folder.
+- Batch-import supported resources while retaining directory structure.
+- List and export all files referenced in a YMT file exported through Ultimate YMT Helper.
 - Replace DDS textures in bulk using filename, swatch, and texture-role matching.
-- Generate searchable HTML image viewers for exported image collections.
 
 ## Requirements
 
